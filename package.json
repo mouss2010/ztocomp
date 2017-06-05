@@ -1,6 +1,6 @@
 {
   "name": "ztocomp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "./bundles/ztocomp.umd.js",
   "module": "./index.js",
