@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "mouss2010",
+    "githubRepoName": "ztocomp",
+    "npmModuleName": "ztocomp",
+    "moduleGlobal": "ztocomp",
+    "ngModuleName": "ZtocompModule",
+    "selectorPrefix": "zto",
+    "projectTitle": "ztocomp",
+    "projectDescription": "",
+    "authorName": "almostafa.nassih@zento.fr"
+  }
+}
